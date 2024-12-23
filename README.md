@@ -2,6 +2,7 @@
 # The project consists of two branches: First is technical project, and second is non-technical
 
 السلام عليكم ورحمة الله وبركاته
+
 قال رسول الله ﷺ {أحبُّ الناسِ إلى اللهِ أنْفَعُهُمْ لِلنَّاسِ}.
 
 💻 Technical Project: Save!
